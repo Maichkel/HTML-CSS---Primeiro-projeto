@@ -1,0 +1,22 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 2em;
+    color: #2da4b9;
+}
+p {
+    font-size: 1em;
+    color: #959e13;
+}
+button {
+    background-color: #ffffff;
+    color: #51ff00;
+    font-size: 1em;
+    width: 100px;
+    heidht: 50px;
+}
+.center { 
+    text-align: center;
+}

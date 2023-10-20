@@ -1,0 +1,28 @@
+<html lang="pt-br">
+    <link rel="stylesheet" href="style.css">
+    <head>
+        <title>CSS Basico</title>
+<style>
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 2em;
+    color: #2da4b9;
+}
+p {
+    font-size: 1em;
+    color: #959e13;
+}
+button {
+</style>
+    </head>
+    <div class="center"> 
+    <body>
+        <h1>CSS Basíco</h1>
+        <p>Parágrafo</p>
+        <button>Clique aqui</button>
+    </body>
+    <div>
+</html>
